@@ -1,3 +1,5 @@
+Derick was here
+
 [![Gitter](https://badges.gitter.im/covid19-healthsystemcapacity/community.svg)](https://gitter.im/covid19-healthsystemcapacity/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![logo](img/covidcaremap-logo.png)
